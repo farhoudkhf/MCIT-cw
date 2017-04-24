@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MCIoTCw-T04</string>
+    <string name="text_loc">text_loc</string>
+    <!--<string name="tag_loc"></string>-->
+    <string name="t4txt">tst4txt</string>
+
+    <string name="action_settings">123</string>
+</resources>

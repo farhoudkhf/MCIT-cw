@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "620457887102",
+    "firebase_url": "https://test02-c1abf.firebaseio.com",
+    "project_id": "test02-c1abf",
+    "storage_bucket": "test02-c1abf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620457887102:android:26819813be3d1391",
+        "android_client_info": {
+          "package_name": "com.bignerdranch.android.mciotcw_t04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620457887102-56kt6fmdmu6ojrhpbp371gpata5l4d99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeIWa1ilNAnnK3qt9iqQ2lCOQnkHoMrK4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
